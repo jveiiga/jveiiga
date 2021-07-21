@@ -1,6 +1,6 @@
 ### Hi there, i'm Jeferson 👋
 
-
+<br/>
 <h4>✨⠀About me... </h4>
 
   <p>I love sports, trips, games and coffe.</p>
