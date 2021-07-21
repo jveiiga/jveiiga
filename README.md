@@ -8,7 +8,7 @@ I love sports, trips, games and coffe.
 ### ♥️⠀Stacks
   <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_960_720.png" alt="ec6" width="40" height="40" max-width="100%"> <img      src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" alt="ec6" width="40" height="40" max-width="100%"> <img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" alt="ec6" width="40"    height="40" max-width="100%">
 ##
-### 🧠⠀Studying
+### 🧠⠀Evolving learning
   <img src="https://miro.medium.com/max/638/1*GCjELZsA3fvQPf4mWsZbAw.png" alt="ec6" width="40" height="40" max-width="100%"> <img     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="ec6" width="40" height="40" max-width="100%"> <img   src="https://decodenatura.com/static/fb8aa1bb70c9925ce1ae22dc2711b343/nextjs-logo.png" alt="ec6" width="40" height="40" max-width="100%">
 ##
 ### 📐⠀UI expirience</br>
