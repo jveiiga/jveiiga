@@ -2,7 +2,7 @@
 
 <h4>✨⠀About me... </h4>
 <div>
-  <p>I love sports, games and coffe.</p>
+  <p>I love sports, trips, games and coffe.</p>
 <div/>
 <hr/ border="1">
 <h4>♥️⠀My practical experiences are:</h4> 
