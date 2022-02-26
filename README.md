@@ -16,7 +16,7 @@ I love sports, trips, games and coffe.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jveiiga&layout=compact)](https://github.com/jveiiga/github-readme-stats)
 ##
-### 🕵🏽‍♂️ Visitors
+### 🕵🏽‍♂️  Visitors
 <p><img alingn="center" src="https://profile-counter.glitch.me/jveiiga/count.svg" /></p>
 
 
