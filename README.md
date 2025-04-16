@@ -14,7 +14,7 @@ I love code, sports, trips, games and coffe.
 ##
 
 ### ⚙️⠀Libs
-<img     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50" max-width="100%"> <img   src="https://styled-components.com/logo.png" alt="styled-components" width="50" height="50" max-width="100%"> <img  src="https://wsofter.ru/wp-content/uploads/2017/12/node-express.png" alt="express" width="50" height="50" max-width="100%"> 
+<img     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50" max-width="100%"> <img   src="https://styled-components.com/logo.png" alt="styled-components" width="50" height="50" max-width="100%"> <img  src="https://media.licdn.com/dms/image/v2/C4E12AQGn33c8MuVS1g/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1594043887838?e=2147483647&v=beta&t=1uCnOV4ya3yTY45XGutDcoyllxeijKJUlQrPgHphkAk" alt="express" width="80" height="50" max-width="100%"> 
 <img src="https://storage.caktusgroup.com/media/blog-images/drf-logo2.png" alt="django rest framework" width="85" height="50" max-width="100%"> 
 ##
 ### 🗄⠀DB
